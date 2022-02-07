@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="jcsp1-0-rc4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/alting" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/alting/ints" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/balls/balls0" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/balls/balls1" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/balls/balls2" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/bounce" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/bucket" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/call" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/commstime" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/crew" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/eratosthenes" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/fireworks" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/flasher" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/hamming" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/infect" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/jcsp-docs-examples/jcsp/awt" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/jcsp-docs-examples/jcsp/lang" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/jcsp-docs-examples/jcsp/plugNplay" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/jcsp-docs-examples/jcsp/plugNplay/ints" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/mandelbrot" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/matrix" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/missionControl" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/philosophers/callChannel" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/philosophers/channel" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/picasso" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/plasma" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/pong" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/splat" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/wot-no-chickens/call-channel" />
+      <root url="jar://$PROJECT_DIR$/../../../jcsp1-0-rc4.jar!/jcsp1-0-rc4/jcsp-demos/wot-no-chickens/channel" />
+    </SOURCES>
+  </library>
+</component>

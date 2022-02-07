@@ -1,0 +1,265 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://galaxy.agh.edu.pl/~balis/dydakt/tw/lab11/
+Subject: =?utf-8?Q?Teoria=20wsp=C3=B3=C5=82bie=C5=BCno=C5=9Bci?=
+Date: Tue, 16 Feb 2021 17:25:39 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--TjVRMwk886daHqBvlqE5XJWgjDNFz9I2YRawpQwqAI----"
+
+
+------MultipartBoundary--TjVRMwk886daHqBvlqE5XJWgjDNFz9I2YRawpQwqAI----
+Content-Type: text/html
+Content-ID: <frame-6C4156860B4E29ECA70A534876FA2B17@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://galaxy.agh.edu.pl/~balis/dydakt/tw/lab11/
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DISO-8859-2">
+
+<meta name=3D"GENERATOR" content=3D"vi">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"http://galaxy.agh.edu.pl=
+/~balis/dydakt/tw/style.css">
+<title>Teoria wsp=F3=B3bie=BFno=B6ci</title>
+</head>
+
+<body bgcolor=3D"papayawhip">
+
+<table width=3D"80%" height=3D"90%" border=3D"0" align=3D"CENTER">
+<tbody><tr>
+<td align=3D"CENTER">
+<div align=3D"left">
+
+<hr>
+<h1>Teoria wsp=F3=B3bie=BFnosci</h1>
+<h2>Laboratorium</h2>
+<hr>
+
+<h3>CSP</h3>
+Instrukcje do zadania znajduj=B1 si=EA pliku <a href=3D"http://galaxy.agh.e=
+du.pl/~balis/dydakt/tw/lab11/tw-csp.pdf">tw-csp.pdf</a>
+
+<!--
+Instrukcje do zadania znajduj=B1 si=EA pliku=20
+zawieraj=B1cym <A HREF=3Dphil5-szkielet.js>szkielet kodu</A> w JavaScript.
+
+<H3>Bibliografia</H3>
+<OL>
+  <LI><A HREF=3D"http://en.wikipedia.org/wiki/Dining_philosophers_problem">
+	Problem pi=EAciu filozof=F3w</A>
+  <UL>
+	<LI><A HREF=3D"https://pl.wikipedia.org/wiki/Problem_ucztuj%C4%85cych_filo=
+zof%C3%B3w#Rozwi%C4%85zanie_przy_pomocy_kelnera">Rozwi=B1zanie z kelnerem</=
+A>
+  </UL>
+  <LI><A HREF=3D"http://www.cs.rit.edu/~atk/JavaScript/manuals/jsobj">
+	Hierarchia obiektow i dziedziczenie w JavaScript.</A>
+</OL>
+<P>
+!-->
+
+<!--
+<H3>Zadanie</H3>
+Prosz=EA przeczyta=E6 artyku=B3: R.G. Lavender, D.C. Schmidt:=20
+<A HREF=3Dhttp://www.cs.wustl.edu/~schmidt/PDF/Act-Obj.pdf>Active Object</A=
+>.
+-->
+
+
+<p>
+</p><hr>
+<i>Bartosz Bali=B6, balis at agh edu pl</i>
+<br>
+
+<p> </p><p>
+<a href=3D"http://www.vim.org/"><img src=3D"http://galaxy.uci.agh.edu.pl/~b=
+alis/images/vipower.gif"></a>
+</p></div>
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+</body></html>
+------MultipartBoundary--TjVRMwk886daHqBvlqE5XJWgjDNFz9I2YRawpQwqAI----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://galaxy.agh.edu.pl/~balis/dydakt/tw/style.css
+
+@charset "iso-8859-2";
+
+body { font-family: verdana, sans-serif; font-size: 12px; color: rgb(0, 0, =
+0); }
+
+.footer { font-size: 12px; color: rgb(102, 153, 255); }
+
+.box { vertical-align: top; }
+
+.box-header { padding: 2px; background-color: rgb(102, 153, 255); color: rg=
+b(255, 255, 255); font-weight: bold; }
+
+.box-content { padding-right: 10px; }
+
+.blue-box { padding: 5px; border: thin solid rgb(102, 153, 255); }
+
+.reference { font-size: 12px; vertical-align: super; }
+
+.highlight { color: rgb(2, 0, 127); }
+
+.blue { color: rgb(102, 153, 255); }
+
+.journal-date { vertical-align: top; font-size: 12px; color: rgb(85, 85, 85=
+); }
+
+.status { color: rgb(255, 66, 33); font-weight: bold; font-style: italic; }
+
+.command { font-family: courier; font-size: 12px; background-color: rgb(186=
+, 212, 255); border: thin solid rgb(2, 0, 127); padding: 3pt; width: auto; =
+}
+
+.code { font-family: courier; font-size: 12px; }
+
+.white { color: rgb(255, 255, 255); }
+
+.title { color: rgb(255, 66, 33); font-weight: bold; }
+
+.small { font-size: 10px; color: rgb(102, 153, 255); }
+
+p, td { font-size: 12px; font-family: Verdana, sans-serif; color: rgb(0, 0,=
+ 0); }
+
+th { color: rgb(102, 153, 255); text-align: left; font-size: 12px; }
+
+pre { font-family: courier; font-size: 12px; background-color: rgb(186, 212=
+, 255); border: thin solid rgb(2, 0, 127); padding: 3pt; width: auto; }
+
+.panel { vertical-align: top; font-size: 10px; font-family: Verdana, sans-s=
+erif; }
+
+a { color: rgb(0, 51, 144); }
+
+a:visited { color: rgb(128, 128, 128); }
+
+a:hover { text-decoration: underline; }
+
+a.header { color: rgb(102, 153, 255); }
+
+a.header:visited { color: rgb(102, 153, 255); }
+
+h4 { color: rgb(102, 153, 255); font-size: 12px; }
+
+h5 { color: rgb(255, 66, 33); font-size: 12px; }
+
+.legalbg { background-color: rgb(153, 204, 255); font-size: 10pt; }
+------MultipartBoundary--TjVRMwk886daHqBvlqE5XJWgjDNFz9I2YRawpQwqAI----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://galaxy.uci.agh.edu.pl/~balis/images/vipower.gif
+
+R0lGODlhWAAfAIcAAP//////zP//mf//Zv//M///AP/M///MzP/Mmf/MZv/MM//MAP+Z//+ZzP+Z
+mf+ZZv+ZM/+ZAP9m//9mzP9mmf9mZv9mM/9mAP8z//8zzP8zmf8zZv8zM/8zAP8A//8AzP8Amf8A
+Zv8AM/8AAMz//8z/zMz/mcz/Zsz/M8z/AMzM/8zMzMzMmczMZszMM8zMAMyZ/8yZzMyZmcyZZsyZ
+M8yZAMxm/8xmzMxmmcxmZsxmM8xmAMwz/8wzzMwzmcwzZswzM8wzAMwA/8wAzMwAmcwAZswAM8wA
+AJn//5n/zJn/mZn/Zpn/M5n/AJnM/5nMzJnMmZnMZpnMM5nMAJmZ/5mZzJmZmZmZZpmZM5mZAJlm
+/5lmzJlmmZlmZplmM5lmAJkz/5kzzJkzmZkzZpkzM5kzAJkA/5kAzJkAmZkAZpkAM5kAAGb//2b/
+zGb/mWb/Zmb/M2b/AGbM/2bMzGbMmWbMZmbMM2bMAGaZ/2aZzGaZmWaZZmaZM2aZAGZm/2ZmzGZm
+mWZmZmZmM2ZmAGYz/2YzzGYzmWYzZmYzM2YzAGYA/2YAzGYAmWYAZmYAM2YAADP//zP/zDP/mTP/
+ZjP/MzP/ADPM/zPMzDPMmTPMZjPMMzPMADOZ/zOZzDOZmTOZZjOZMzOZADNm/zNmzDNmmTNmZjNm
+MzNmADMz/zMzzDMzmTMzZjMzMzMzADMA/zMAzDMAmTMAZjMAMzMAAAD//wD/zAD/mQD/ZgD/MwD/
+AADM/wDMzADMmQDMZgDMMwDMAACZ/wCZzACZmQCZZgCZMwCZAABm/wBmzABmmQBmZgBmMwBmAAAz
+/wAzzAAzmQAzZgAzMwAzAAAA/wAAzAAAmQAAZgAAM+4AAN0AALsAAKoAAIgAAHcAAFUAAEQAACIA
+ABEAAADuAADdAAC7AACqAACIAAB3AABVAABEAAAiAAARAAAA7gAA3QAAuwAAqgAAiAAAdwAAVQAA
+RAAAIgAAEe7u7t3d3bu7u6qqqoiIiHd3d1VVVURERCIiIhEREQAAACH/C05FVFNDQVBFMi4wAwHo
+AwAh+QQARgAAACwAAAAAWAAfAAcI/AABCBxIsKDBgwgTKlzIsKHDhxAjSiT4T+CKixgzatzIsaPH
+jyBDbvxXEYDIjVbwneSIz8pJkjBjypwpcwVJiysxstJ3j5/LQPpW6mP1kiZMcEiNwrRZcmPLFfdc
+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
+ckuUCFGiiRS/Ocy4rWTJRGQECWqlUOQjbibXmFSDCJHKfhVHllyzRpvPNWXIpFQJ8p/Flzt9Zsvm
+M+hQleAWjhQKpOqRbEC8aPXSRaUgnP8aPpJhr2zZHEBWrLiHL18eVSpZGb3IjaxZe2jX4rOSD9Cq
+fYKeGdRJxi4QbEeCsLVyaNWzZ6ycgWPYDeY2bWVlHDkChO0YWbEcOzbY0LI2sis2y7hnxZEsWdUe
+C7aocw2Qs2nvdXEtK57sqLNK70S9Gp8a3vFiP1so1jKZsmq7cEPuW55AcMF1blO7Vg23bkqv5T2r
+VjD7S25d1HJ51M2bLGvW5M1D+C27Q4jsJX6Db61l8IbdBNjeLN/I4o8/FBk1y3/eNPjNg/REleB1
+C1ZI4EETFmSQhBQFBAAh/mExMC8yMC85NiBOaWNrIFB1cnZpcyAocmFnZUBnZWVrbGFiLmNvbSkN
+CkNvcHkgZnJlZWx5LCBidXQgZG8gbm90IG1vZGlmeSB0aGlzIGNvbW1lbnQuDQpJIGxpa2Ugdmku
+ACH+71RoaXMgR0lGIGZpbGUgd2FzIGFzc2VtYmxlZCB3aXRoIEdJRiBDb25zdHJ1Y3Rpb24gU2V0
+IGZyb206DQoNCkFsY2hlbXkgTWluZHdvcmtzIEluYy4NClAuTy4gQm94IDUwMA0KQmVldG9uLCBP
+bnRhcmlvDQpMMEcgMUEwDQpDQU5BREEuDQoNClRoaXMgY29tbWVudCBibG9jayB3aWxsIG5vdCBh
+cHBlYXIgaW4gZmlsZXMgY3JlYXRlZCB3aXRoIGEgcmVnaXN0ZXJlZCB2ZXJzaW9uIG9mIEdJRiBD
+b25zdHJ1Y3Rpb24gU2V0ACH/C0dJRkNPTm5iMS4wAgoADi4AAgADAAAAAAAAAAAALkM6XFdJTkRP
+V1NcUHJvZmlsZXNccm5peG9uXERlc2t0b3BcMVxiYWNrLmdpZgAOKwACAAUAAAAAAAAAAAArQzpc
+V0lORE9XU1xQcm9maWxlc1xybml4b25cRGVza3RvcFwxXDEuZ2lmAA4rAAIABwAAAAAAAAAAACtD
+OlxXSU5ET1dTXFByb2ZpbGVzXHJuaXhvblxEZXNrdG9wXDFcMi5naWYADisAAgAJAAAAAAAAAAAA
+K0M6XFdJTkRPV1NcUHJvZmlsZXNccm5peG9uXERlc2t0b3BcMVwzLmdpZgAOKwACAAsAAAAAAAAA
+AAArQzpcV0lORE9XU1xQcm9maWxlc1xybml4b25cRGVza3RvcFwxXDQuZ2lmAA4rAAIADQAAAAAA
+AAAAACtDOlxXSU5ET1dTXFByb2ZpbGVzXHJuaXhvblxEZXNrdG9wXDFcNS5naWYADisAAgAPAAAA
+AAAAAAAAK0M6XFdJTkRPV1NcUHJvZmlsZXNccm5peG9uXERlc2t0b3BcMVw2LmdpZgAOKwACABEA
+AAAAAAAAAAArQzpcV0lORE9XU1xQcm9maWxlc1xybml4b25cRGVza3RvcFwxXDcuZ2lmAA4rAAIA
+EwAAAAAAAAAAACtDOlxXSU5ET1dTXFByb2ZpbGVzXHJuaXhvblxEZXNrdG9wXDFcOC5naWYADisA
+AgAVAAAAAAAAAAAAK0M6XFdJTkRPV1NcUHJvZmlsZXNccm5peG9uXERlc2t0b3BcMVw5LmdpZgAA
+Ow==
+
+------MultipartBoundary--TjVRMwk886daHqBvlqE5XJWgjDNFz9I2YRawpQwqAI------
